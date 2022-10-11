@@ -1,0 +1,96 @@
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\bin\Debug\BrujudamRemaster.exe.config
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\bin\Debug\BrujudamRemaster.exe
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\bin\Debug\BrujudamRemaster.pdb
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.AssemblyReference.cache
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.Properties.Resources.resources
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.GenerateResource.cache
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.CoreCompileInputs.cache
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.exe
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.pdb
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\bin\Debug\CapaNegocio.dll
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\bin\Debug\CapaDatos.dll
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\bin\Debug\CapaNegocio.pdb
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\bin\Debug\CapaDatos.pdb
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.Login.resources
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.CopyComplete
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaCompraRealizada.resources
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaConfirmar.resources
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaEntrada.resources
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaPrincipal.resources
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaRegistrarU.resources
+D:\Visual Studio Proyectos\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.AMBpeliculas.resources
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\bin\Debug\BrujudamRemaster.exe.config
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\bin\Debug\BrujudamRemaster.exe
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\bin\Debug\BrujudamRemaster.pdb
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\bin\Debug\CapaNegocio.dll
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\bin\Debug\CapaDatos.dll
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\bin\Debug\CapaNegocio.pdb
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\bin\Debug\CapaDatos.pdb
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.AssemblyReference.cache
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.SuggestedBindingRedirects.cache
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.AMBpeliculas.resources
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.Login.resources
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaCompraRealizada.resources
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaConfirmar.resources
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaEntrada.resources
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaPrincipal.resources
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaRegistrarU.resources
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.Properties.Resources.resources
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.GenerateResource.cache
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.CoreCompileInputs.cache
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.CopyComplete
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.exe
+C:\Users\Note2\OneDrive\Desktop\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.pdb
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\bin\Debug\BrujudamRemaster.exe.config
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\bin\Debug\BrujudamRemaster.exe
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\bin\Debug\BrujudamRemaster.pdb
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\bin\Debug\CapaNegocio.dll
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\bin\Debug\CapaDatos.dll
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\bin\Debug\CapaNegocio.pdb
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\bin\Debug\CapaDatos.pdb
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.AMBpeliculas.resources
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.Login.resources
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaCompraRealizada.resources
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaConfirmar.resources
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaEntrada.resources
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaPrincipal.resources
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaRegistrarU.resources
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.Properties.Resources.resources
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.CopyComplete
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.exe
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.pdb
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.AMBusuario.resources
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.AMBproductos.resources
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaEmpleados.resources
+C:\Users\bruno\Desktop\Nuevo Brujudam\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.AMBsalas.resources
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\bin\Debug\BrujudamRemaster.exe.config
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\bin\Debug\BrujudamRemaster.exe
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\bin\Debug\BrujudamRemaster.pdb
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\bin\Debug\CapaNegocio.dll
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\bin\Debug\CapaDatos.dll
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\bin\Debug\CapaNegocio.pdb
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\bin\Debug\CapaDatos.pdb
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.AssemblyReference.cache
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.AMBpeliculas.resources
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.AMBproductos.resources
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.AMBsalas.resources
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.AMBusuario.resources
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.Login.resources
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaCompraRealizada.resources
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaConfirmar.resources
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaEmpleados.resources
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaEntrada.resources
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaPrincipal.resources
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaRegistrarU.resources
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.Properties.Resources.resources
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.GenerateResource.cache
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.CopyComplete
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.exe
+C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.pdb
