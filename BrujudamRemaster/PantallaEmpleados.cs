@@ -40,7 +40,7 @@ namespace BrujudamRemaster
 
         private void btnAMBS_Click(object sender, EventArgs e)
         {
-            AMBsalas abrir = new AMBsalas();
+            AMBSalas2 abrir = new AMBSalas2();
             abrir.Show();
             this.Hide();
         }

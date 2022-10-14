@@ -11,13 +11,13 @@ namespace CapaNegocio
 {
     public class CN_Salas
     {
-        private CD_SALAS objetoCD = new CD_SALAS();
+        private CD_Salas objetoCD = new CD_Salas();
         public string butacas { get; set; }
-
-        public string id_pelicula { get; set; }
-        public string tipo_sala { get; set; }
+        public string idpelicula { get; set; }
         public string capacidad { get; set; }
-        public int id_sala { get; set; }
+        public string tiposala { get; set; }
+
+        public int id { get; set; }
         public DataTable MostrarProd()
         {
 
@@ -25,38 +25,37 @@ namespace CapaNegocio
             tabla = objetoCD.Mostrar();
             return tabla;
         }
-        public void InsertarPRod(string id_pelicula, string tipo_sala, string butacas, string capacidad)
+        public void InsertarSa(string butacas, string idpelicula, string capacidad, string tiposala)
         {
 
-            objetoCD.Insertar(id_pelicula, tipo_sala, butacas , capacidad);
+            objetoCD.Insertar(butacas, Convert.ToInt32(idpelicula), Convert.ToInt32(capacidad), tiposala);
         }
 
-        public void EditarProd(string id_pelicula, string tipo_sala, string butacas, string capacidad, string id_sala)
+        public void EditarSa(string butacas, string idpelicula, string capacidad, string tiposala, string id)
         {
-            objetoCD.Editar(id_pelicula,tipo_sala, butacas, capacidad, id_sala);
+            objetoCD.Editar(butacas, Convert.ToInt32(idpelicula), Convert.ToInt32(capacidad), tiposala, Convert.ToInt32(id));
         }
 
-        public void EliminarPRod(string id_sala)
+        public void EliminarSa(string id)
         {
 
-            objetoCD.Eliminar(Convert.ToInt32(id_sala));
+            objetoCD.Eliminar(Convert.ToInt32(id));
         }
-
-        public void ConsultarProd(string id_sala)
+        public void ConsultarProd(string id)
         {
             DataTable tabla = new DataTable();
-            tabla = objetoCD.Consultar(Convert.ToInt32(id_sala));
+            tabla = objetoCD.Consultar(Convert.ToInt32(id));
 
 
             foreach (DataRow dr in tabla.Rows)
             {
 
-                id_sala = dr[0].ToString();
+                id = dr[0].ToString();
                 butacas = dr[1].ToString();
-
+                idpelicula = dr[2].ToString();
                 capacidad = dr[3].ToString();
-                tipo_sala = dr[4].ToString();
-                id_pelicula = dr[5].ToString();
+                tiposala = dr[4].ToString();
+
             }
 
         }

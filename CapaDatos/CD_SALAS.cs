@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 using System.Data.SqlClient;
 using System.Data;
 
+
 namespace CapaDatos
 {
-    public class CD_SALAS
+    public class CD_Salas
     {
         private CD_Conexion conexion = new CD_Conexion();
 
@@ -20,7 +21,7 @@ namespace CapaDatos
         {
 
             comando.Connection = conexion.AbrirConexion();
-            comando.CommandText = "MostrarSala";
+            comando.CommandText = "MostrarSalas";
             comando.CommandType = CommandType.StoredProcedure;
             leer = comando.ExecuteReader();
             tabla.Load(leer);
@@ -28,58 +29,55 @@ namespace CapaDatos
             return tabla;
 
         }
-
-        public void Insertar(string Butacas, string id_pelicula, string Tipo_sala, string Capacidad)
+        public void Insertar(string butacas, int idpelicula, int capacidad, string tiposala)
         {
             //PROCEDIMNIENTO
 
             comando.Connection = conexion.AbrirConexion();
             comando.CommandText = "InsertarSalas";
             comando.CommandType = CommandType.StoredProcedure;
-            
-            comando.Parameters.AddWithValue("@butacas", Butacas);
-            comando.Parameters.AddWithValue("@idpelicula", id_pelicula);
-            comando.Parameters.AddWithValue("@tiposala", Tipo_sala);
-            comando.Parameters.AddWithValue("@capacidad", Capacidad);
+            comando.Parameters.AddWithValue("@butacas", butacas);
+            comando.Parameters.AddWithValue("@idPelicula", idpelicula);
+            comando.Parameters.AddWithValue("@capacidad", capacidad);
+            comando.Parameters.AddWithValue("@tiposala", tiposala);
+
 
             comando.ExecuteNonQuery();
             comando.Parameters.Clear();
 
         }
-
-        public void Editar(string Butacas, string id_pelicula, string Tipo_sala, string Capacidad, string id_sala)
+        public void Editar(string butacas, int idpelicula, int capacidad, string tiposala, int id)
         {
 
             comando.Connection = conexion.AbrirConexion();
-            comando.CommandText = "EditarSalas";
+            comando.CommandText = "EditarProductos";
             comando.CommandType = CommandType.StoredProcedure;
-           
-            comando.Parameters.AddWithValue("@butacas", Butacas);
-            comando.Parameters.AddWithValue("@idpelicula", id_pelicula);
-            comando.Parameters.AddWithValue("@tiposala", Tipo_sala);
-            comando.Parameters.AddWithValue("@capacidad", Capacidad);
-            comando.Parameters.AddWithValue("@id", id_sala);
+            comando.Parameters.AddWithValue("@butacas", butacas);
+            comando.Parameters.AddWithValue("@idPelicula", idpelicula);
+            comando.Parameters.AddWithValue("@capacidad", capacidad);
+            comando.Parameters.AddWithValue("@tiposala", tiposala);
+            comando.Parameters.AddWithValue("@id", id);
 
             comando.ExecuteNonQuery();
             comando.Parameters.Clear();
         }
 
-        public void Eliminar(int Id_Sala)
+        public void Eliminar(int id)
         {
             comando.Connection = conexion.AbrirConexion();
-            comando.CommandText = "EliminarSala";
+            comando.CommandText = "EliminarSalas";
             comando.CommandType = CommandType.StoredProcedure;
-            comando.Parameters.AddWithValue("@idsa", Id_Sala);
+            comando.Parameters.AddWithValue("@idsa", id);
             comando.ExecuteNonQuery();
             comando.Parameters.Clear();
-        }
 
-        public DataTable Consultar(int Id_Sala)
+        }
+        public DataTable Consultar(int id)
         {
             comando.Connection = conexion.AbrirConexion();
-            comando.CommandText = "ConsultarSala";
+            comando.CommandText = "ConsultarSalas";
             comando.CommandType = CommandType.StoredProcedure;
-            comando.Parameters.AddWithValue("@idsa", Id_Sala);
+            comando.Parameters.AddWithValue("@idsa", id);
 
             SqlDataAdapter adaptador = new SqlDataAdapter(comando);
 
@@ -87,7 +85,6 @@ namespace CapaDatos
             conexion.CerrarConexion();
             return tabla;
         }
-
-
     }
 }
+

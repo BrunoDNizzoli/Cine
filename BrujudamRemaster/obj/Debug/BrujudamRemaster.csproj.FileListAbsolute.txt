@@ -94,3 +94,30 @@ C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10oct
 C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.CopyComplete
 C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.exe
 C:\Users\Mati\Desktop\Tp algoritmos\Brujudam 10 de octubre\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.pdb
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.AMBpeliculas.resources
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.AMBproductos.resources
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.AMBsalas.resources
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.AMBusuario.resources
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.Login.resources
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaCompraRealizada.resources
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaConfirmar.resources
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaEmpleados.resources
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaEntrada.resources
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaPrincipal.resources
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.PantallaRegistrarU.resources
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.Properties.Resources.resources
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.exe
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.pdb
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\bin\Debug\BrujudamRemaster.exe.config
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\bin\Debug\BrujudamRemaster.exe
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\bin\Debug\BrujudamRemaster.pdb
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\bin\Debug\CapaNegocio.dll
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\bin\Debug\CapaDatos.dll
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\bin\Debug\CapaNegocio.pdb
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\bin\Debug\CapaDatos.pdb
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.AMBSalas2.resources
+C:\Users\bruno\Desktop\BrujudamConsultas ok\BrujudamRemaster10octubre\BrujudamRemaster\BrujudamRemaster\obj\Debug\BrujudamRemaster.csproj.CopyComplete

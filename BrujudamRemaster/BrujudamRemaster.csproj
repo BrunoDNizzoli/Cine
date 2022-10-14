@@ -64,6 +64,12 @@
     <Compile Include="AMBsalas.Designer.cs">
       <DependentUpon>AMBsalas.cs</DependentUpon>
     </Compile>
+    <Compile Include="AMBSalas2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AMBSalas2.Designer.cs">
+      <DependentUpon>AMBSalas2.cs</DependentUpon>
+    </Compile>
     <Compile Include="AMBusuario.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -122,6 +128,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="AMBsalas.resx">
       <DependentUpon>AMBsalas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AMBSalas2.resx">
+      <DependentUpon>AMBSalas2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="AMBusuario.resx">
       <DependentUpon>AMBusuario.cs</DependentUpon>

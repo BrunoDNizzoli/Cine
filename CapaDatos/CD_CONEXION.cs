@@ -10,7 +10,7 @@ namespace CapaDatos
 {
     public class CD_Conexion
     {
-        private SqlConnection Conexion = new SqlConnection("Data Source = DESKTOP-8R5GPO5\\SQLEXPRESS; Initial Catalog = Brujudam210; Integrated Security = True");
+        private SqlConnection Conexion = new SqlConnection("Data Source = DESKTOP-C1L7NRC\\BRUNEROSERVER; Initial Catalog = CineBruju2; Integrated Security = True");
 
         public SqlConnection AbrirConexion()
         {

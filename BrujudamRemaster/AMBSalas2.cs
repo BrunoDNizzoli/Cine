@@ -9,40 +9,45 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms;
 using CapaNegocio;
-using System.Data.SqlClient;
+using System.Data.SqlClient; 
 
 namespace BrujudamRemaster
 {
-    public partial class AMBsalas : Form
+    public partial class AMBSalas2 : Form
     {
+
         CN_Salas objetoCN = new CN_Salas();
         private string idSala = null;
         private bool Editar = false;
 
-        public AMBsalas()
+
+
+        public AMBSalas2()
         {
             SqlConnection Conexion = new SqlConnection("Data Source = DESKTOP-C1L7NRC\\BRUNEROSERVER; Initial Catalog = CineBruju2 ;Integrated Security=true");
             InitializeComponent();
         }
 
-        private void AMBsalas_Load(object sender, EventArgs e)
+        private void AMBSalas2_Load(object sender, EventArgs e)
         {
-            MostrarProdctos();
+            MostrarSalas();
         }
 
-        private void limpiarForm()
-        {
 
-            txtIdPelicula.Text = "";
-            txtTipoSala.Clear();
-            txtCapacidad.Clear();
-            txtButacas.Clear();
-        }
-        private void MostrarProdctos()
+        private void MostrarSalas()
         {
 
             CN_Salas objeto = new CN_Salas();
             dataGridView1.DataSource = objeto.MostrarProd();
+        }
+
+        private void limpiarForm()
+        {
+            txtButacas.Clear();
+            txtidPelicula.Text = "";
+            txtCapacidad.Clear();
+            txtTipoSala.Clear();
+
         }
 
         private void btnGuardar_Click(object sender, EventArgs e)
@@ -51,9 +56,9 @@ namespace BrujudamRemaster
             {
                 try
                 {
-                    objetoCN.InsertarSa(txtIdPelicula.Text, txtTipoSala.Text, txtCapacidad.Text, txtButacas.Text);
+                    objetoCN.InsertarSa(txtButacas.Text, txtidPelicula.Text, txtCapacidad.Text, txtTipoSala.Text);
                     MessageBox.Show("se inserto correctamente");
-                    MostrarProdctos();
+                    MostrarSalas();
                     limpiarForm();
                 }
                 catch (Exception ex)
@@ -67,9 +72,9 @@ namespace BrujudamRemaster
 
                 try
                 {
-                    objetoCN.EditarSa(txtIdPelicula.Text, txtTipoSala.Text, txtCapacidad.Text, txtButacas.Text, idSala);
+                    objetoCN.EditarSa(txtButacas.Text, txtidPelicula.Text, txtCapacidad.Text, txtTipoSala.Text, idSala);
                     MessageBox.Show("se edito correctamente");
-                    MostrarProdctos();
+                    MostrarSalas();
                     limpiarForm();
                     Editar = false;
                 }
@@ -78,6 +83,11 @@ namespace BrujudamRemaster
                     MessageBox.Show("no se pudo editar los datos por: " + ex);
                 }
             }
+       
+        
+        
+        
+      
         }
 
         private void btnEditar_Click(object sender, EventArgs e)
@@ -85,12 +95,12 @@ namespace BrujudamRemaster
             if (dataGridView1.SelectedRows.Count > 0)
             {
                 Editar = true;
-                txtIdPelicula.Text = dataGridView1.CurrentRow.Cells["Id_Pelicula"].Value.ToString();
+                txtButacas.Text = dataGridView1.CurrentRow.Cells["Butacas"].Value.ToString();
+                txtidPelicula.Text = dataGridView1.CurrentRow.Cells["IdPelicula"].Value.ToString();
+                txtCapacidad.Text = dataGridView1.CurrentRow.Cells["Capacidad"].Value.ToString();
                 txtTipoSala.Text = dataGridView1.CurrentRow.Cells["TipoSala"].Value.ToString();
 
-                txtCapacidad.Text = dataGridView1.CurrentRow.Cells["Capacidad"].Value.ToString();
-                txtButacas.Text = dataGridView1.CurrentRow.Cells["Butacas"].Value.ToString();
-                idSala = dataGridView1.CurrentRow.Cells["Id_Sala"].Value.ToString();
+                idSala = dataGridView1.CurrentRow.Cells["Id"].Value.ToString();
             }
             else
                 MessageBox.Show("seleccione una fila por favor");
@@ -100,14 +110,16 @@ namespace BrujudamRemaster
         {
             if (dataGridView1.SelectedRows.Count > 0)
             {
-                idSala = dataGridView1.CurrentRow.Cells["id_Sala"].Value.ToString();
+                idSala = dataGridView1.CurrentRow.Cells["Id"].Value.ToString();
                 objetoCN.EliminarSa(idSala);
                 MessageBox.Show("Eliminado correctamente");
-                MostrarProdctos();
+                MostrarSalas();
             }
             else
                 MessageBox.Show("seleccione una fila por favor");
+
+
         }
-    }
     
+    }
 }
